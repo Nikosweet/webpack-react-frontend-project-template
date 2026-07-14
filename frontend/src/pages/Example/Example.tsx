@@ -1,7 +1,5 @@
-import classes from '@/pages/Example/Example.module.scss'
+import classes from '@/pages/Example/Example.module.scss';
 
 export default function Example() {
-  return (
-    <div>Example</div>
-  )
+    return <div>Example</div>;
 }

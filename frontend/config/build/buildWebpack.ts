@@ -1,4 +1,4 @@
-import webpack from 'webpack'
+import type webpack from 'webpack'
 import { Configuration } from 'webpack-dev-server'
 import { buildPlugins } from './buildPlugins'
 import { buildLoaders } from './buildLoaders'

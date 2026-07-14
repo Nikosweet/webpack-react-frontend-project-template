@@ -1,1 +1,1 @@
-export {LazyExample as Example} from './Example.lazy'
+export { LazyExample as Example } from './Example.lazy';

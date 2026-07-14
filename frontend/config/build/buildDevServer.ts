@@ -1,5 +1,5 @@
 import path from "path"
-import { Configuration } from "webpack-dev-server"
+import type { Configuration } from "webpack-dev-server"
 
 type Params = {
     PORT: number,

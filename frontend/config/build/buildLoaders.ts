@@ -1,6 +1,6 @@
 import ReactRefreshTypeScript from 'react-refresh-typescript'
 import MiniCssExtractPlugin from "mini-css-extract-plugin"
-import { ModuleOptions } from "webpack"
+import type { ModuleOptions } from "webpack"
 export function buildLoaders(isDev: boolean):ModuleOptions['rules'] {
     return [
         {

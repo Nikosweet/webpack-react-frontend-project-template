@@ -10,7 +10,7 @@
     "mobile": "webpack --env mode=production PORT=5000 platform=mobile"
   },
   "keywords": [],
-  "author": "Grechka",
+  "author": "Nikosweet",
   "license": "ISC",
   "description": "",
   "devDependencies": {

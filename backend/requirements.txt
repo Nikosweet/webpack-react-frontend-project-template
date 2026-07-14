@@ -1,0 +1,12 @@
+fastapi[standart]
+alembic
+asyncpg
+psycopg
+psycopg-binary
+sqlalchemy
+pytest
+pytest-asyncio
+pytest-cov
+pytest-dotenv
+bcrypt
+python-dotenv
